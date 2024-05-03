@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "11477864",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "cc34262f6c227140574e5ee54e30ac56",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "5056205033",
         "required": true
       },
       "STRING_SESSION": {
@@ -44,12 +44,12 @@
       },
       "QUEUE_LIMIT": {
         "description": "Fill Queue Limit . Example - 15",
-        "value": "",
+        "value": "15",
         "required": false
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-333fd081-e7fe-4bdd-b1d4-eb23325cd4ed",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-        "value": "",
+        "value": "-1002075786437",
         "required": true
       }
     },
