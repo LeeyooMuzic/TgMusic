@@ -37,7 +37,7 @@
         "value": "5056205033",
         "required": true
       },
-        "USER_NAME": {
+      "USER_NAME": {
         "description": "The username of OWNER.",
         "value": "vinayspy1",
         "required": true
