@@ -37,6 +37,11 @@
         "value": "5056205033",
         "required": true
       },
+        "USER_NAME": {
+        "description": "The username of OWNER.",
+        "value": "vinayspy1",
+        "required": true
+      },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session .",
         "value": "",
