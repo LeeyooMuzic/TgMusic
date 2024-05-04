@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "11477864",
+        "value": "7370676",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "cc34262f6c227140574e5ee54e30ac56",
+        "value": "a69ef5a0e63ddaf883c36768585eb608",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,12 +34,12 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "5056205033",
+        "value": "5663149546",
         "required": true
       },
       "USER_NAME": {
         "description": "The username of OWNER.",
-        "value": "vinayspy1",
+        "value": "TeleMuzicPlayer",
         "required": true
       },
       "STRING_SESSION": {
